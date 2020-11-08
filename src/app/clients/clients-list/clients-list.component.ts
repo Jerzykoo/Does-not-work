@@ -9,7 +9,7 @@ export class ClientsListComponent implements OnInit {
 
   constructor() { }
 
-  list=['jaja','olala'];
+  list=['Ala','Ola','Ania'];
   ngOnInit(): void {
   }
 
